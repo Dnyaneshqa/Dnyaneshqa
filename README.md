@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dnyaneshwar Rathod  
+# 👋 Hello, welcome to DevTestOpsAcademy
 
 💻 **Full stack QA Automation Engineer | DevOps Practitioner | Cloud Engineer**  
 I design scalable test automation frameworks, build CI/CD pipelines, and deploy applications on the cloud.  
