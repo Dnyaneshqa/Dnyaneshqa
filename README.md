@@ -28,7 +28,7 @@ I am a versatile **QA Automation Engineer | DevOps Practitioner | Cloud Enthusia
 - Selenium | Appium | RestAssured| Playwright | Cucumber | TestNG | JUnit | Postman | Jmeter
 
 ### 🔹 Programming Languages  
-- Java | Python | Shellscipting
+- Java | Python | JavaScript | Shellscipting
 
 ### 🔹 DevOps  
 - Docker | Kubernetes | Jenkins | GitHub Actions | Git | Linux  
